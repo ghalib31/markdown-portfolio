@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+## More Info
+
+<details><summary>CLICK ME</summary>
+<p>
+Hello
+</p>
+</details>
