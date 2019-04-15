@@ -1,7 +1,2 @@
-## More Info
-
-<details><summary>CLICK ME</summary>
-<p>
-Hello
-</p>
-</details>
+- item 1
+- item 2
